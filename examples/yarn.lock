@@ -4530,6 +4530,13 @@ react-lifecycles-compat@^3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/react-lifecycles-compat/-/react-lifecycles-compat-3.0.2.tgz#7279047275bd727a912e25f734c0559527e84eff"
 
+react-mixpanel-provider@0.0.8:
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/react-mixpanel-provider/-/react-mixpanel-provider-0.0.8.tgz#e9fc27d6ffcdf1f01b28a94df9ada6d3bf505901"
+  dependencies:
+    prop-types "^15.6.1"
+    react "^16.3.2"
+
 react@^16.3.2:
   version "16.3.2"
   resolved "https://registry.yarnpkg.com/react/-/react-16.3.2.tgz#fdc8420398533a1e58872f59091b272ce2f91ea9"

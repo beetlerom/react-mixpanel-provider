@@ -1,7 +1,7 @@
-import MixpanelProvider from '../src/MixpanelProvider';
-import withMixpanel from '../src/MixpanelComponent';
+import MixpanelProvider from './MixpanelProvider';
+import withMixpanel from './MixpanelComponent';
 
 export {
-    MixpanelProvider,
-    withMixpanel
+  MixpanelProvider,
+  withMixpanel,
 };

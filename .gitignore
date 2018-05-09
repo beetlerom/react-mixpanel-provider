@@ -3,5 +3,6 @@
 
 # Don't check auto-generated stuff into git
 node_modules
+lib
 npm-debug.log
 yarn-error.log

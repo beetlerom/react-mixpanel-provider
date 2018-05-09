@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+
+# Don't check auto-generated stuff into git
+node_modules
+npm-debug.log
+yarn-error.log
